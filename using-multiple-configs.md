@@ -30,7 +30,7 @@ ref: https://qiita.com/Ancient_Scapes/items/64f239f89d25a3b9f520
   name = me
 ```
 
-# ~/.ssh/configの内容（例）
+# ~/.ssh/config
 ref: https://qiita.com/wonder_zone/items/413abaa45b2d29fd26d6#sshconfig%E3%81%AE%E5%86%85%E5%AE%B9%E4%BE%8B
 
 ```
